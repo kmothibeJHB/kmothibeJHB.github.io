@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/kmothibeJHB.github.io/static/css/main.8659cc39.css",
+    "main.js": "/kmothibeJHB.github.io/static/js/main.5e0d9a0e.js",
+    "static/media/conf.JPG": "/kmothibeJHB.github.io/static/media/conf.759f7b02eb8f300f1ec0.JPG",
+    "static/media/kids.jpg": "/kmothibeJHB.github.io/static/media/kids.b27eceb8d3a97595a1a7.jpg",
+    "static/media/glyphicons-halflings-regular.svg": "/kmothibeJHB.github.io/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
+    "static/media/glyphicons-halflings-regular.ttf": "/kmothibeJHB.github.io/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
+    "static/media/glyphicons-halflings-regular.woff": "/kmothibeJHB.github.io/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
+    "static/media/glyphicons-halflings-regular.eot": "/kmothibeJHB.github.io/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
+    "static/media/glyphicons-halflings-regular.woff2": "/kmothibeJHB.github.io/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
+    "index.html": "/kmothibeJHB.github.io/index.html",
+    "main.8659cc39.css.map": "/kmothibeJHB.github.io/static/css/main.8659cc39.css.map",
+    "main.5e0d9a0e.js.map": "/kmothibeJHB.github.io/static/js/main.5e0d9a0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8659cc39.css",
+    "static/js/main.5e0d9a0e.js"
+  ]
+}
